@@ -1,3 +1,3 @@
 # ICS3U-Intro-03-Python-Hello_World
 
-![image](https://user-images.githubusercontent.com/ICS3U-Programming-Hertz-M/ICS3U-Intro-03-Python-Hello_World/edit/main/README.md
+[![GitHub's Super Linter](https://github.com/ICS3U-Programming-Hertz-M/ICS3U-Intro-03-Python-Hello_World>/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS3U-Programming-Hertz-M/ICS3U-Intro-03-Python-Hello_World/actions) 
